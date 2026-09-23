@@ -1,6 +1,6 @@
 # What is Quarterly Learnings?
 
-Quarterly Learnings is an independent technology education and consulting shop specializing in web-based technology solutions. Examples include in-person web development classes, custom CMS implementations, and virtual software & AI upskilling with top universities and Fortune 100s.
+[Quarterly Learnings](https://www.quarterlylearnings.com) is an independent technology education and consulting shop specializing in web-based technology solutions. Examples include in-person web development classes, custom CMS implementations, and virtual software & AI upskilling with top universities and Fortune 100s.
 
 ## What is this GitHub organization for?
 
